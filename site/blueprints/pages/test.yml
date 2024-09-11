@@ -1,0 +1,11 @@
+title: Test
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          testField:
+            type: test-field
